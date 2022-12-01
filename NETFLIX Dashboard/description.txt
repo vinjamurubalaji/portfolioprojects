@@ -1,4 +1,4 @@
-In thos dashboard i have analyzed Netflix Dataset to retrive some outcomes about 
+In this dashboard i have analyzed Netflix Dataset to retrive some outcomes about 
 
 1) Total Movies & TV Shoes by country
 2) total Movies & TV Shoes by Year
