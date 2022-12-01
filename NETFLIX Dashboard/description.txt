@@ -1,1 +1,17 @@
+In thos dashboard i have analyzed Netflix Dataset to retrive some outcomes about 
+
+1) Total Movies & TV Shoes by country
+2) total Movies & TV Shoes by Year
+3) Top 10 Genre in Netflix
+4) Movies Vs TV Shoes Distribution 
+5) Shoes Vs Rating
+6) Filter to know details abot 
+  1) Type : Movies/TV Shoes
+  2) Titles
+with this filter we can get detailed explanation about 
+  1) Description 
+  2) Release Year
+  3) Date Added
+  4) Genre
+  5) Duration 
 
