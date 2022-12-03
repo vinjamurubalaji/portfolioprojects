@@ -15,3 +15,5 @@ with this filter we can get detailed explanation about
   4) Genre
   5) Duration 
 
+
+TABLEAU PUBLIC DASHBOARD LINK : https://public.tableau.com/app/profile/balaji4416/viz/NETFLIX-Dashboard/NETFLIX
